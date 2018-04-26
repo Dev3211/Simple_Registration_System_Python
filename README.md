@@ -4,7 +4,8 @@ It is a simple CLI registration system in Python, it basically is meant for exam
 
 Modules you need:
 
-Bcrypt
-MySQLDB
+Bcrypt,
+MySQLDB,
 Re
 
+It's really fast, as you already know Python and web verison is coming out soon enough.
